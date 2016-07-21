@@ -23,7 +23,6 @@ This project is ongoing. Contact gold@coas.oregonstate.edu for more information
 As we become aware of active projects we will list them here for maximum visibility. To have an Oregon CMECS project listed please email the information to tanya.haddad@state.or.us.
 
 ##Help build CMECS!
-++++++++++++++++++
 
 We will be using this repo to track issues with the first generation CMECS product produced in Phase I, so that improvements can be integrated in Phase II.
 
