@@ -31,4 +31,4 @@ We will be using this repo to track issues with the first generation CMECS produ
 
 Please file a GitHub issue if you see a problem with a Phase I product. This does require you to register for a GitHub account.
 
-Issues can be any sort of request, and may include pointers to problem areas on a map (via geojson.io).
+Issues can be any sort of request, and may include pointers to problem areas on a map (via http://geojson.io/).
