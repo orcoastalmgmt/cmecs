@@ -3,24 +3,26 @@ CMECS is a comprehensive national framework for organizing information about coa
 
 In Oregon there are multiple groups applying CMECS in their work. As yet there only a few cross-project coordination efforts, but over time this may improve. It has been suggested that eventually CMECS may become a recognized Oregon Framework data element.
 
-CMECS projects in Oregon:
+As we become aware of active projects we will list them here for maximum visibility. To have an Oregon CMECS project listed please email the information to tanya.haddad@state.or.us.
 
-###Oregon Coastal Management Program – Estuary CMECS Phase I
+##CMECS projects in Oregon:
+
+####Oregon Coastal Management Program – Estuary CMECS Phase I
 This project was active from 2013-2015, products include:
 - CMECS Concept Map
 - Core GIS Methods Document
 - GIS layers
 
-###Oregon Coastal Management Program – Estuary CMECS Phase II
+####Oregon Coastal Management Program – Estuary CMECS Phase II
 This project will take place 2015-2017. Contact andy.lanier@state.or.us for more information
 
-###Pacific States Marine Fisheries Commission
+####Pacific States Marine Fisheries Commission
 This project is ongoing. Contact BHolycross@psmfc.org for more information
 
-###Active Tectonics and Seafloor Mapping Lab – Oregon State University
+####Active Tectonics and Seafloor Mapping Lab – Oregon State University
 This project is ongoing. Contact gold@coas.oregonstate.edu for more information
 
-As we become aware of active projects we will list them here for maximum visibility. To have an Oregon CMECS project listed please email the information to tanya.haddad@state.or.us.
+
 
 ##Help build CMECS!
 
