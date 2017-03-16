@@ -5,26 +5,26 @@ In Oregon there are multiple groups applying CMECS in their work. As yet there o
 
 As we become aware of active projects we will list them here for maximum visibility. To have an Oregon CMECS project listed please email the information to tanya.haddad@state.or.us.
 
-##CMECS projects in Oregon:
+## CMECS projects in Oregon:
 
-####Oregon Coastal Management Program – Estuary CMECS Phase I
+#### Oregon Coastal Management Program – Estuary CMECS Phase I
 This project was active from 2013-2015, products include:
 - CMECS Concept Map
 - Core GIS Methods Document
 - GIS layers
 
-####Oregon Coastal Management Program – Estuary CMECS Phase II
+#### Oregon Coastal Management Program – Estuary CMECS Phase II
 This project will take place 2015-2017. Contact andy.lanier@state.or.us for more information
 
-####Pacific States Marine Fisheries Commission
+#### Pacific States Marine Fisheries Commission
 This project is ongoing. Contact BHolycross@psmfc.org for more information
 
-####Active Tectonics and Seafloor Mapping Lab – Oregon State University
+#### Active Tectonics and Seafloor Mapping Lab – Oregon State University
 This project is ongoing. Contact gold@coas.oregonstate.edu for more information
 
 
 
-##Help build CMECS!
+## Help build CMECS!
 
 We will be using this repo to track issues with the first generation CMECS product produced in Phase I, so that improvements can be integrated in Phase II.
 
@@ -32,4 +32,4 @@ We will be using this repo to track issues with the first generation CMECS produ
 
 Please file a GitHub issue if you see a problem with a Phase I product. This does require you to register for a GitHub account.
 
-Issues can be any sort of request, and may include pointers to problem areas on a map (via http://geojson.io/).
+Issues can be any sort of request, and may include pointers to problem areas on a map. Simply include a description of the problem and if a visual is nedded, add a highlighted screen shot, or link to a drawing of a location of concern e.g. via http://geojson.io/ Feel free to add any of the available, applicable labels to your issue submission, or if you are unsure, leave them off and labels will be added as appropriate.
