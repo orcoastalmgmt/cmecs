@@ -19,7 +19,7 @@ This project took place 2015-2018, products include:
 - GIS layers
 
 #### Oregon Coastal Management Program – Ocean Shores CMECS Phase III
-This project is ongoing, and will take place 2018-2020. Contact andy.lanier@state.or.us for more information
+This project is nearing completion, and is expected to be complete by fall 2019. Contact andy.lanier@state.or.us for more information
 
 #### Pacific States Marine Fisheries Commission
 This project is ongoing. Contact BHolycross@psmfc.org for more information
